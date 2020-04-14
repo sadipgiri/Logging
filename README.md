@@ -1,4 +1,4 @@
-# Flask App to send <a href="https://docs.datadoghq.com/logs/">Logs</a> to Datadog and tracking the application using <a href="https://docs.datadoghq.com/tracing/">APM</a>
+# Flask App to send <a href="https://docs.datadoghq.com/logs/">Logs</a> to Datadog and tracing the application using <a href="https://docs.datadoghq.com/tracing/">APM</a>
 
 
 Tracing Python Application: https://docs.datadoghq.com/tracing/setup/python/
